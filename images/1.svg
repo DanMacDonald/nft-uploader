@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+<rect xmlns="http://www.w3.org/2000/svg" x="0" y="-2" width="1003" height="1043" style="fill:url(#7851270172534453);"/><defs xmlns="http://www.w3.org/2000/svg">
+        <linearGradient id="7851270172534453" x1="0" y1="0" x2="1" y2="0" gradientUnits="userSpaceOnUse" gradientTransform="matrix(530,1031.61,-999.972,551.137,458,-3.03575)"><stop offset="0" style="stop-color:rgb(46,50,64);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(31,32,53);stop-opacity:1"/></linearGradient>
+    </defs>
+<g xmlns="http://www.w3.org/2000/svg" id="ArmBack">
+        <path id="ArmBack1" xmlns:ns1="http://www.serif.com/" ns1:id="ArmBack" d="M848,944C847.227,943.883 914.358,930.329 961,780C894.839,745.966 758.742,556.508 715,504C676.846,458.2 574.99,496.288 557,523C664.677,607.222 684.341,829.427 848,944Z" style="fill:rgb(191,182,182);stroke:black;stroke-width:6px;"/>
+        <path id="ArmBack2" xmlns:ns2="http://www.serif.com/" ns2:id="ArmBack" d="M909,892C919.698,891.865 877.217,830.117 941,833C927.395,827.745 902.151,789.674 956,779" style="fill:rgb(191,182,182);stroke:black;stroke-width:6px;"/>
+    </g>
+<g xmlns="http://www.w3.org/2000/svg" id="ShirtWhiteBack">
+        <path id="ShirtWhiteBack1" xmlns:ns1="http://www.serif.com/" ns1:id="ShirtWhiteBack" d="M776,881C775.227,880.883 847.358,863.329 894,713C842.839,654.966 759.832,555.58 715,504C669.429,451.57 572.171,493.767 557,523C664.677,607.222 612.341,766.427 776,881Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+        <path d="M929,751C898.42,825.34 861.47,884.613 814,919L772,879C819.65,834.427 860.169,778.198 890,707L929,751Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+    </g>
+<path xmlns="http://www.w3.org/2000/svg" id="Body" d="M729,999C756.359,935.515 852.869,518.109 591,464C315.846,407.146 245.065,785.723 263,999C280.896,1000.61 729,999 729,999Z" style="fill:rgb(191,182,182);stroke:black;stroke-width:6px;"/>
+<path xmlns="http://www.w3.org/2000/svg" id="KhakiPants" d="M744,940L728,1006L265,1004C259.724,963.607 259.985,900.414 264,857C465.432,948.045 633.709,983.196 744,940Z" style="fill:rgb(143,105,38);stroke:black;stroke-width:6px;"/>
+<g xmlns="http://www.w3.org/2000/svg" id="Belt">
+        <path id="Belt1" xmlns:ns1="http://www.serif.com/" ns1:id="Belt" d="M743,939L731,984C732.427,984.008 524.877,1057.15 265,887C261.716,882.839 263.106,850.285 265,845C534.962,971.128 673.132,972.378 743,939Z" style="fill:rgb(62,35,11);stroke:black;stroke-width:6px;"/>
+        <path id="Buckle" d="M602,956L599,998C630.514,999.262 663.568,998.757 701,992L702,954C671.328,958.771 635.784,960.791 602,956Z" style="fill:rgb(229,145,0);stroke:black;stroke-width:6px;"/>
+    </g>
+<g xmlns="http://www.w3.org/2000/svg" id="WhiteShirtBody">
+            <path id="WhiteShirtBody1" xmlns:ns1="http://www.serif.com/" ns1:id="WhiteShirtBody" d="M652,489C652,489 738.33,546.524 639,585C539.67,623.476 427.903,568.394 424,533C420.097,497.606 448.726,471.019 479,467C509.274,462.981 290.017,437.179 260,840C451.283,973.75 691.101,988.217 745,940C788.24,768.508 781.517,549.53 652,489Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+            <path id="Buttons" d="M667,860C672.519,860 677,864.481 677,870C677,875.519 672.519,880 667,880C661.481,880 657,875.519 657,870C657,864.481 661.481,860 667,860ZM668,788C673.519,788 678,792.481 678,798C678,803.519 673.519,808 668,808C662.481,808 658,803.519 658,798C658,792.481 662.481,788 668,788ZM665,715C670.519,715 675,719.481 675,725C675,730.519 670.519,735 665,735C659.481,735 655,730.519 655,725C655,719.481 659.481,715 665,715Z" style="stroke:black;stroke-width:6px;"/>
+            <path id="Collar" d="M633,576C633,576 695.11,595.117 706,616C716.89,636.883 725.99,497.232 706,473C686.01,448.768 633,576 633,576Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="GreenVest">
+            <path id="VestGreen" d="M751,942C764.077,884.543 827.354,622.877 685.738,507.34C706.243,572.068 695.625,698.414 676,697C676,697 492.652,519.5 445.687,469.54C287.959,524.232 253.744,692.481 257,791C286.684,854.655 455.521,991.992 592.842,1013.21C616.908,989.273 665.407,957.828 665.407,957.828C665.407,957.828 700.212,996.297 711.253,1017.58C722.191,1008.61 745.95,964.189 751,942Z" style="fill:rgb(0,106,83);stroke:black;stroke-width:6px;"/>
+            <g transform="matrix(0.992081,-0.125597,0.125597,0.992081,-19.4442,245.801)">
+                <ellipse cx="605" cy="747.5" rx="12" ry="11.5" style="fill:rgb(0,14,14);"/>
+            </g>
+            <g transform="matrix(0.992081,-0.125597,0.125597,0.992081,-11.3168,163.352)">
+                <ellipse cx="605" cy="747.5" rx="12" ry="11.5" style="fill:rgb(0,14,14);"/>
+            </g>
+            <g transform="matrix(0.992081,-0.125597,0.125597,0.992081,-13.6938,82.7627)">
+                <ellipse cx="605" cy="747.5" rx="12" ry="11.5" style="fill:rgb(0,14,14);"/>
+            </g>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="Bowtie" transform="matrix(1,0,0,1,90,-5)">
+            <path d="M640,648C651.249,641.059 660.547,618.838 650,580C645.051,561.775 596.846,567.896 593,579C590.852,585.2 577.639,626.687 597,639C616.361,651.313 632.167,652.833 640,648Z" style="fill:rgb(231,0,0);stroke:rgb(1,1,1);stroke-width:6px;"/>
+            <path d="M558,640C564.564,643.797 582.109,650.993 598,641C615.296,630.123 603.308,585.931 594,579C586.246,573.226 555.189,571.132 550,586C545.412,599.145 541.615,630.523 558,640Z" style="fill:rgb(231,0,0);stroke:rgb(1,1,1);stroke-width:6px;"/>
+            <path d="M503,647C531.681,653.802 555.848,644.968 560,636C564.152,627.032 562.663,588.519 554,579C544.802,568.893 514.102,560.057 498,572C483.748,582.571 489.741,643.855 503,647Z" style="fill:rgb(231,0,0);stroke:rgb(1,1,1);stroke-width:6px;"/>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="ArmFront">
+            <path id="ArmFront1" xmlns:ns1="http://www.serif.com/" ns1:id="ArmFront" d="M277,971C276.25,976.538 135.071,960.946 87,885C146.865,697.439 280.075,482.055 442,476C618.289,469.408 428.393,528.72 277,971" style="fill:rgb(191,182,182);stroke:black;stroke-width:6px;"/>
+            <path id="ArmFront2" xmlns:ns2="http://www.serif.com/" ns2:id="ArmFront" d="M114,914C114,914 173.423,872.935 169,947C181.238,934.736 224.372,904.658 225,966C236.974,944.068 264.146,935.521 275,971" style="fill:none;stroke:black;stroke-width:6px;"/>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="ShirtWhiteFront">
+            <path id="ArmFront" d="M441,471C633.62,443.291 421.974,569.052 319,870C318.25,875.538 170.071,857.946 122,782C202.307,612.233 293.648,492.197 441,471Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+            <path d="M298,918C228.558,905.142 162.091,872.614 97,831L127,768C191.605,811.006 257.92,839.823 326,854L298,918Z" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+            <ellipse cx="131.5" cy="812.5" rx="6.5" ry="7.5" style="fill:rgb(230,230,230);stroke:black;stroke-width:6px;"/>
+        </g>
+<path xmlns="http://www.w3.org/2000/svg" id="EarBack" d="M461,208C469.489,213.447 444.099,117.679 324,166C203.102,214.642 266.653,366.862 285,406C307.318,453.61 303.917,478.338 331,508C340.189,518.064 390.22,560.331 436,469C481.78,377.669 461,208 461,208Z" style="fill:rgb(191,182,182);stroke:black;stroke-width:6px;"/>
+<g xmlns="http://www.w3.org/2000/svg" id="Head2">
+            <path id="Head21" xmlns:ns1="http://www.serif.com/" ns1:id="Head2" d="M529,127C427.471,130.263 367.283,221.927 354,318C340.36,416.656 329.512,481.135 306,503C286.687,520.96 224.386,629.386 233,708C243.046,799.681 298.622,955.107 313,1002C322.459,1032.85 397.923,984.121 399,975C399.036,974.697 370.471,941.596 378,924C385.529,906.404 412.014,863.952 400,831C387.986,798.048 406.448,779.619 415,762C423.552,744.381 410.748,694.006 433,678C455.252,661.994 509.962,646.072 545,597.435C575.204,583.585 625.368,610.413 709,497C791.496,385.128 742.364,216.132 694,164C674.388,142.86 655.943,125.195 609,128C593.52,128.925 573,147 573,147C570.387,142.842 554.164,126.191 529,127ZM550,167L573,147" style="fill:rgb(191,182,182);stroke:black;stroke-width:6px;"/>
+            <path d="M626,518C608.743,559.764 565.116,562.002 546,597" style="fill:none;stroke:black;stroke-width:6px;"/>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="EarFront">
+            <path d="M638,235C638,235 672.892,141.658 769,144C823.595,145.331 856.196,197.106 868,228C884.939,272.334 876.556,352.438 808,419C795.747,430.897 775.388,455.324 762,481C743.427,516.618 737.464,535.178 700,546C676.209,552.872 655.22,546.317 642,537C706.159,364.39 638,235 638,235Z" style="fill:rgb(191,182,182);"/>
+            <path d="M637,238C649.778,177.606 737.356,121.138 806.311,153.581C879.735,188.128 884.362,280.326 869,326C851.671,377.522 814.676,416.318 801,428C776.728,448.733 753.023,507.635 736,527C714.115,551.895 667.42,558.032 642,536" style="fill:none;stroke:black;stroke-width:6px;"/>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="YoungEyes2">
+            <path d="M379.848,372.344C384.707,373.321 387.421,380.234 385.904,387.771C384.388,395.308 379.212,400.634 374.353,399.656C369.494,398.679 366.781,391.766 368.297,384.229C369.814,376.692 374.99,371.366 379.848,372.344ZM531.853,382.431C537.071,382.881 540.734,389.909 540.027,398.116C539.32,406.323 534.51,412.622 529.292,412.172C524.073,411.723 520.41,404.695 521.117,396.488C521.824,388.28 526.634,381.982 531.853,382.431Z" style="stroke:black;stroke-width:6px;"/>
+            <path d="M349,311C349,311 371.806,293.128 393,289" style="fill:none;stroke:black;stroke-width:6px;"/>
+            <path d="M516,291C516,291 552.521,298.57 582,325" style="fill:none;stroke:black;stroke-width:6px;"/>
+        </g>
+<g xmlns="http://www.w3.org/2000/svg" id="BikeGlasses">
+        <path d="M567,437C536.392,445.232 499.215,449.597 477,452C468.989,452.867 460.925,459.162 451,441C438.625,418.356 444.207,404.65 431,400C421.893,396.794 425.309,392.443 409,400C403.086,419.205 394,446 394,446C382.742,455.475 327,424 327,424C322.635,418.721 318.99,406.514 316,388L321,351C321,351 442.144,339.425 578,366C583.996,376.976 593,401 593,401C585.379,417.763 576.866,430.462 567,437Z" style="fill:url(#3065593441343744);stroke:black;stroke-width:6px;"/>
+        <path d="M602,370L586,391L574,366L602,370ZM308,358L315,373L321,352L308,358ZM374,349L378,355C416.321,352.037 455.387,353.974 495,360L500,354C458.737,348.93 416.753,347.19 374,349ZM634,239L601,370L595,367L634,239ZM317,361L358,289L321,366L317,361Z" style="stroke:black;stroke-width:6px;"/>
+    </g><defs xmlns="http://www.w3.org/2000/svg">
+        <radialGradient id="3065593441343744" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(-160.523,373.677,-142,-61,420,364)"><stop offset="0" style="stop-color:white;stop-opacity:1"/><stop offset="0.44" style="stop-color:rgb(255,0,239);stop-opacity:1"/><stop offset="1" style="stop-color:rgb(149,0,255);stop-opacity:1"/></radialGradient>
+    </defs></svg>
