@@ -14,7 +14,7 @@ async function postBundlrTx(data: string | Uint8Array, fileName:string,  content
 	const tx = bundlr.createTransaction(data, { tags });
 	await tx.sign();
 	const txid = tx.id
-	//await tx.upload();
+	await tx.upload();
 	return txid;
 }
 
